@@ -1,0 +1,103 @@
+.footer .warper {
+  border-top: 1px solid #ccc;
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+.footer .warper .f-top p {
+  text-align: center;
+}
+.footer .warper .f-top p a:hover {
+  color: #b08746;
+}
+.footer .warper .f-top img {
+  width: 220px;
+  margin-left: 480px;
+}
+.f-center {
+  height: 300px;
+  box-sizing: border-box;
+  padding-top: 32px;
+  background-color: #181818;
+  color: #fff;
+}
+.f-center .warper .f-c-left li {
+  color: #fff;
+}
+.f-center .warper .f-c-left li span {
+  font-size: 23px;
+  margin-right: 15px;
+}
+.f-center .warper .f-c-left li a {
+  color: #fff;
+}
+.f-center .warper .f-c-left li:nth-child(1) {
+  font-size: 18px;
+}
+.f-center .warper .f-c-left li:nth-child(2) {
+  font-size: 30px;
+  color: #b08746;
+  margin-left: 20px;
+}
+.f-center .warper .f-c-left li:nth-child(3) {
+  font-size: 15px;
+  color: #b08746;
+  margin-left: 20px;
+}
+.f-center .warper .f-c-left li:nth-child(4) {
+  font-size: 18px;
+  margin: 10px 0 15px 0;
+}
+.f-center .warper .f-c-left li:nth-child(5) {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.f-center .warper .f-c-left li:nth-child(6) {
+  font-size: 18px;
+}
+.f-center .warper .f-c-link p {
+  color: #fff;
+  font-size: 18px;
+}
+.f-center .warper .f-c-link p span {
+  font-size: 23px;
+  margin-right: 15px;
+}
+.f-center .warper .f-c-link .link1 {
+  text-align: center;
+  margin-top: 13px;
+  margin-right: 25px;
+}
+.f-center .warper .f-c-link .link1 img {
+  width: 100px;
+  margin-bottom: 15px;
+}
+.f-center .warper .f-c-link .link1 p:nth-child(2) {
+  font-size: 13px;
+  color: #b08746;
+}
+.f-center .warper .f-c-link .link1 span {
+  color: #b08746;
+  font-size: 20px;
+}
+.f-center .warper .f-c-link .link1:last-child {
+  margin-right: 0px;
+}
+.f-bottom {
+  margin-top: 180px;
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.f-bottom .alin {
+  padding: 10px 35px;
+  background-color: #b08746;
+  border-radius: 20px;
+  font-size: 18px;
+  color: #fff;
+}
+.f-bottom p:nth-child(2) {
+  margin-top: 30px;
+}
+.f-bottom p:nth-child(2) a {
+  color: #b08746;
+}

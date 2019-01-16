@@ -1,0 +1,237 @@
+.banner img {
+  width: 100%;
+}
+.showtit {
+  background: url(../img/bg1.jpg);
+  margin-bottom: 30px;
+}
+.showtit .warper .showtop .shoutop-left img {
+  width: 194px;
+  height: 230px;
+}
+.showtit .warper .showtop .showtop-c {
+  padding: 40px 0px 56px 0px;
+  position: relative;
+  width: 380px;
+}
+.showtit .warper .showtop .showtop-c h3 {
+  font-size: 40px;
+  font-weight: normal;
+  color: #c0a271;
+  margin-bottom: 10px;
+  font-family: "宋体";
+}
+.showtit .warper .showtop .showtop-c .zuimei {
+  margin-top: 25px;
+  font-size: 25px;
+  color: gray;
+}
+.showtit .warper .showtop .showtop-c .zuimei a {
+  padding: 10px;
+  border: 1px solid #000;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.showtit .warper .showtop .showtop-c:after {
+  content: 'Love Story In Rome';
+  font-size: 18px;
+  position: absolute;
+  left: 168px;
+  top: 58px;
+}
+.showtit .warper .showtop .showtop-r {
+  margin-top: 90px;
+  margin-right: 40px;
+}
+.showtit .warper .showtop .showtop-r a {
+  padding: 15px 45px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 18px;
+  margin-right: 20px;
+}
+.showtit .warper .showtop .showtop-r .a-active {
+  background-color: #b08746;
+}
+.moreworks {
+  margin-bottom: 35px;
+}
+.moreworks .warper {
+  height: 400px;
+}
+.moreworks .warper .title span:nth-child(1) {
+  font-size: 18px;
+  color: gray;
+}
+.moreworks .warper .title span:nth-child(2) {
+  font-size: 18px;
+  color: gray;
+}
+.moreworks .warper .title span:nth-child(3) {
+  font-size: 30px;
+  color: #c2a786;
+  font-weight: normal;
+  font-display: '宋体';
+}
+.moreworks .warper .title span:nth-child(4) {
+  font-size: 30px;
+  color: gray;
+  font-weight: normal;
+  font-display: '宋体';
+}
+.moreworks .warper .photos {
+  position: relative;
+}
+.moreworks .warper .photos .lunbox1 {
+  margin-right: 35px;
+  height: 305px;
+  width: 1011px;
+  position: absolute;
+  display: none;
+}
+.moreworks .warper .photos .lunbox1 .po1 {
+  margin-top: 30px;
+  text-align: center;
+  margin-right: 9px;
+}
+.moreworks .warper .photos .lunbox1 .po1 img {
+  width: 195px;
+}
+.moreworks .warper .photos .lunbox1 .po1 p {
+  font-size: 18px;
+}
+.moreworks .warper .photos .lunbox1 .po1:nth-child(5n) {
+  margin-right: 0px;
+}
+.moreworks .warper .photos .lunbox1:first-child {
+  display: block;
+}
+.moreworks .warper .photos a {
+  position: absolute;
+  z-index: 999;
+  top: 100px;
+  right: 30px;
+  padding: 35px 20px;
+  box-sizing: border-box;
+  display: block;
+  width: 106px;
+  height: 150px;
+  background-color: #b08746;
+  border-radius: 20px;
+  text-align: center;
+  color: #fff;
+}
+.moreworks .warper .photos a span {
+  font-size: 40px;
+  color: #fff;
+  font-weight: normal;
+}
+.moreworks .warper .photos a p {
+  font-weight: normal;
+  color: #fff;
+  margin-top: 10px;
+}
+.shoujies {
+  margin-bottom: 20px;
+}
+.shoujies .warper {
+  height: 260px;
+  border: 1px solid #ccc;
+}
+.shoujies .warper .tup img {
+  width: 165px;
+  height: 260px;
+  border-radius: 10px;
+}
+.shoujies .warper .c-jie {
+  padding: 30px 0 27px 30px;
+}
+.shoujies .warper .c-jie p:nth-child(1) {
+  font-size: 25px;
+}
+.shoujies .warper .c-jie h3 {
+  font-size: 35px;
+  font-weight: normal;
+  font-family: '宋体 ';
+  color: #c2a786;
+  margin: 30px 0 30px;
+}
+.shoujies .warper .c-jie p:nth-child(5) {
+  font-size: 20px;
+}
+.shoujies .warper .jie-r {
+  margin: 50px 40px 50px 0;
+}
+.shoujies .warper .jie-r a {
+  padding: 35px 20px;
+  box-sizing: border-box;
+  display: block;
+  width: 106px;
+  height: 150px;
+  background-color: #eeeeee;
+  border-radius: 20px;
+  text-align: center;
+  color: #666678;
+}
+.shoujies .warper .jie-r a span {
+  font-size: 40px;
+  font-weight: normal;
+}
+.shoujies .warper .jie-r a p {
+  font-weight: normal;
+  color: #666678;
+  margin-top: 10px;
+}
+.shoujies .warper .jie-r a:nth-child(1) {
+  margin-right: 20px;
+}
+.kezhao .warper {
+  margin-bottom: 50px;
+}
+.kezhao .warper .kezhao-left {
+  width: 270px;
+  height: 38px;
+  line-height: 38px;
+  font-size: 18px;
+}
+.kezhao .warper .kezhao-left .title {
+  margin-bottom: 10px;
+  border: 1px solid #eeeeee;
+}
+.kezhao .warper .kezhao-left .title span {
+  font-size: 23px;
+  color: #b08746;
+}
+.kezhao .warper .kezhao-left a {
+  display: block;
+  padding: 5px 25px;
+  background-color: #eeeeee;
+  font-size: 16px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.kezhao .warper .kezhao-left a:hover {
+  background-color: #b08746;
+}
+.kezhao .warper .kezhao-left a:nth-child(2n-1) {
+  margin-right: 0px;
+}
+.kezhao .warper .kezhao-left .a-active {
+  background-color: #b08746;
+}
+.kezhao .warper .kezhao-right {
+  margin-right: 30px;
+}
+.kezhao .warper .kezhao-right .photo img {
+  width: 833px;
+  height: 670px;
+}
+.fixpho {
+  position: fixed;
+  right: 0;
+  top: 500px;
+}
+.fixpho img {
+  width: 120px;
+}
